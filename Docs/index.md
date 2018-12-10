@@ -35,7 +35,7 @@
   * [Running without display and selecting GPUs](carla_headless.md)
   * [Running in a Docker](carla_docker.md)
 
-  * [How to link Epic's Automotive Materials](epic_automotive_materials.md)
+  
 
 <h3>Contributing</h3>
 
@@ -46,6 +46,10 @@
 <h3>Development</h3>
 
   * [Map customization](map_customization.md)
+  * [Building block generator](building_block_generator)
+  * [Building master](building_master)
+  * [Spline tools](spline_tools)
+  * [Weather](weather)
   <!-- * [CARLA design](carla_design.md) -->
   <!-- * [CarlaServer documentation](carla_server.md) -->
   * [Build system](build_system.md)
